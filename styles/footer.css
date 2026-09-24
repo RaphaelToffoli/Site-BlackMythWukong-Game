@@ -1,0 +1,79 @@
+.main-footer{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    gap:30px;
+    background-color: #4c5b5c;
+}
+.contact-footer{
+    margin-top: 70px;
+    margin-left: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.contact__footer__item{
+    display: flex;
+    align-items: center;
+}
+.contact__footer__item p{
+    color: white;
+    font-family: arial;
+}
+.contact__footer__item i{
+    color: #f7ca72;
+    padding: 18px;
+    border-radius: 12px;
+}
+.social-icons-footer{
+    margin-left: 140px;
+    margin-top: 70px;
+    gap: 20px;
+    width: 400px;
+
+}
+.social-icons-footer h2{
+    color: #f7ca72;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.social-icons-itens {
+    gap: 10px;
+    display: flex;
+    
+}
+.social-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 35px;
+    height: 35px;
+
+    background: #222;
+    border-radius: 8px;
+
+    text-decoration: none;
+    color: white;
+
+    transition: 0.3s;
+}
+.social-btn i{
+    font-size: 20px;
+}
+.social-btn:hover{
+    background: #f7ca72;
+    color: black;
+}
+.second-footer{
+    width: 100%;
+    height: 50px;
+    color:white;
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+.credits-footer{
+    margin-left: 38%;
+    width: 500px;
+    display: flex;
+    gap: 20px;
+}

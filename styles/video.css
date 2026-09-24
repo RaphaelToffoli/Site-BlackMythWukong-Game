@@ -1,0 +1,30 @@
+.principal__video{
+    text-align: center;
+    padding-top: 420px;
+}
+.principal__video iframe{
+    max-width: 1000px;
+    aspect-ratio: 16 / 9;
+
+    border: 3px solid #b08d57;
+    border-radius: 12px;
+
+    /* Efeito de card */
+    box-shadow:
+        0 10px 25px rgba(0, 0, 0, 0.7),
+        0 0 20px rgba(176, 141, 87, 0.25);
+
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.principal__video iframe:hover {
+    transform: translateY(-6px);
+    box-shadow:
+        0 18px 35px rgba(0, 0, 0, 0.8),
+        0 0 30px rgba(176, 141, 87, 0.45);
+}
+.principal__video p{
+    font-family: 'Cinzel', serif;
+    color: #d4af65;
+    font-size: 18px;
+    font-weight: bold;
+}

@@ -1,0 +1,31 @@
+.perso{
+    width: 100%;
+    gap: 25%;
+    flex-wrap: wrap;
+
+}
+.perso2{
+    display: flex;
+    gap: 20%;
+    height: 1000px;
+}
+.conteudo__image{
+    width: 20%;
+    margin-top: 10%;
+    border: solid 2px #b08d57;
+}
+.conteudo__image img{
+    max-width: 100%;
+    min-height: 100%;
+}
+.conteudo__image2{
+    width: 25%;
+    height: 50%;
+    margin-top: 15%;
+    border: solid 2px #b08d57;
+
+}
+.conteudo__image2 img{
+    max-width: 100%;
+    min-height: 100%;
+}

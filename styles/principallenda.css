@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    
+    background-image: url("/images/lendafundo.png");
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body.fundo-rei{
+    background-image: url("/images/lendafundo.png");
+}
+body.fundo-jornada{
+    background-image: url("/images/jornadafundo.jfif");
+}
+body.fundo-personagens{
+    background-image: url("/imagemfundopersonagens.png");
+    background-position: center;
+    background-attachment: fixed;
+}
+body.fundo-yaoguais{
+    background-image: url("/imagemfundopersonagens.png");
+    background-position: center;
+}
+.principal__texto{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 20px;
+    justify-content: center;
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-bottom: 5%;
+    text-align: center;
+}
+.principal__texto h2{
+    font-family: 'Cinzel', serif;
+    color: #d4af65;
+}
+.principal__texto p{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    font-size: 18px;
+    margin: 10px 0;
+}
+.lendaf{
+    margin-top: 210px;
+}

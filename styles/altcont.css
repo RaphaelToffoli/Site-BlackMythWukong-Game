@@ -1,0 +1,7 @@
+.conteudo {
+    display: none;
+}
+
+.conteudo.ativa {
+    display: flex;
+}

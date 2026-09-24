@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&display=swap');
+
+.cabecalho{
+    display: flex;
+    padding:2% 0 0 70%;
+    height: 5%;
+    width: 100%;
+    align-items: center;
+}
+.desce{
+    position: fixed;
+     top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+.cabecalho__menu{
+    display: flex;
+    gap: 40px;
+}
+.cabecalho__menu__link{
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    transition: 0.8s;
+}
+.cabecalho__menu__link:hover{
+    color: #f7ca72;
+}

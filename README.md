@@ -5,29 +5,29 @@ O site apresenta informações sobre o jogo Black Myth: Wukong, sua história, p
 
 # Funcionalidades
 
-Página principal com apresentação do jogo;
+* Página principal com apresentação do jogo;
 
-Trailer integrado ao site;
+* Trailer integrado ao site;
 
-Página secundária dedicada à lenda e à mitologia relacionada ao jogo;
+* Página secundária dedicada à lenda e à mitologia relacionada ao jogo;
 
-Menu de navegação entre diferentes conteúdos;
+* Menu de navegação entre diferentes conteúdos;
 
-Sistema de exibição de diferentes seções utilizando JavaScript;
+* Sistema de exibição de diferentes seções utilizando JavaScript;
 
-Seções sobre o Rei Macaco, Jornada ao Oeste, personagens e Yaoguai;
+* Seções sobre o Rei Macaco, Jornada ao Oeste, personagens e Yaoguai;
 
-Imagens e elementos multimídia;
+* Imagens e elementos multimídia;
 
-Layout e identidade visual personalizados.
+* Layout e identidade visual personalizados.
 
 # Tecnologias utilizadas
 
-HTML5
+* HTML5
 
-CSS3
+* CSS3
 
-JavaScript
+* JavaScript
 
 # Objetivo
 

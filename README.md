@@ -3,7 +3,7 @@ Projeto desenvolvido como atividade acadêmica da disciplina de Desenvolvimento 
 
 O site apresenta informações sobre o jogo Black Myth: Wukong, sua história, personagens e elementos da mitologia chinesa, utilizando uma identidade visual inspirada na estética do próprio jogo.
 
-Funcionalidades
+# Funcionalidades
 
 Página principal com apresentação do jogo;
 
@@ -21,7 +21,7 @@ Imagens e elementos multimídia;
 
 Layout e identidade visual personalizados.
 
-Tecnologias utilizadas
+# Tecnologias utilizadas
 
 HTML5
 
@@ -29,7 +29,7 @@ CSS3
 
 JavaScript
 
-Objetivo
+# Objetivo
 
 O objetivo do projeto foi aplicar conceitos de desenvolvimento web na criação de um site temático, trabalhando principalmente com estruturação de páginas, estilização, navegação, organização de conteúdo e interatividade com JavaScript.
 

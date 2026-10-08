@@ -16,7 +16,7 @@
     height: 100%;
     padding: 25px;
     box-sizing: border-box;
-    background-image: url('imagemfundomenu.png');
+    background-image: url('./imagemfundomenu.png');
     background-position: center;
     border: 2px solid #b08d57;
 }

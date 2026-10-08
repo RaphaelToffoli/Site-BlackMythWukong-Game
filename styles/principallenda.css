@@ -5,25 +5,25 @@
 }
 body{
     
-    background-image: url("/images/lendafundo.png");
+    background-image: url("images/lendafundo.png");
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 body.fundo-rei{
-    background-image: url("/images/lendafundo.png");
+    background-image: url("images/lendafundo.png");
 }
 body.fundo-jornada{
-    background-image: url("/images/jornadafundo.jfif");
+    background-image: url("images/jornadafundo.jfif");
 }
 body.fundo-personagens{
-    background-image: url("/imagemfundopersonagens.png");
+    background-image: url("imagemfundopersonagens.png");
     background-position: center;
     background-attachment: fixed;
 }
 body.fundo-yaoguais{
-    background-image: url("/imagemfundopersonagens.png");
+    background-image: url("imagemfundopersonagens.png");
     background-position: center;
 }
 .principal__texto{
